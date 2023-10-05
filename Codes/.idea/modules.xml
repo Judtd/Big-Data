@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Codes.iml" filepath="$PROJECT_DIR$/.idea/Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spark-Stream-Consumer/OMDB-tes.iml" filepath="$PROJECT_DIR$/Spark-Stream-Consumer/OMDB-tes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka-Producer/kafkaProject.iml" filepath="$PROJECT_DIR$/Kafka-Producer/kafkaProject.iml" />
+    </modules>
+  </component>
+</project>
